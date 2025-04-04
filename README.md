@@ -23,7 +23,11 @@ This repository contains the implementation of a novel semi-supervised learning 
 ## 📥 Resources
 ### Pretrained Models
 Download pretrained model weights:
-- https://drive.google.com/drive/folders/1T273o0mHj23700C3tlbc1nDUgsUcmINs?usp=drive_link
+```bash
+https://drive.google.com/drive/folders/1T273o0mHj23700C3tlbc1nDUgsUcmINs?usp=drive_link
+```
 ### Test Set
 Prepare the Test data:
-- https://drive.google.com/drive/folders/1KP8H0qIuct56hWre5GV6ZJnzwqOY3Pip?usp=drive_link
+```bash
+https://drive.google.com/drive/folders/1KP8H0qIuct56hWre5GV6ZJnzwqOY3Pip?usp=drive_link
+```
